@@ -1,7 +1,8 @@
 # PrimoUnitTestQuiz
-Please write a typescript project with unit test
-Provide accessible repo of typescript project with unit test.
-Provide how to setup dependency, execute code and run unit test.
+> **Original Question**  
+> Please write a typescript project with unit test  
+> Provide accessible repo of typescript project with unit test.  
+> Provide how to setup dependency, execute code and run unit test.
 
 ## How to Setup UnitTest
 
@@ -49,7 +50,11 @@ test("Test 2", () => {
 
 ## Try it out
 1. Clone or Download this repository
-2. Run command `npm install` or `npm i`
-3. Run command `npm test` or `npx jest`
-4. Try adding test case to src/test.ts
-5. Run command `npm test` again
+2. Run command `npm install`
+4. Add test case to `test.ts`
+5. Run command `npm test`
+
+## References and Additional Resources
+-  [How to write test cases in typescript by _Gaurav Sharma_](https://medium.com/design-bootcamp/how-to-write-test-cases-in-typescript-fa7a263b7833)
+-  [Jest Documentation](https://jestjs.io/docs/getting-started)
+-  [PRIMO : Enterprise Loyalty Platform](https://www.primo.mobi/)
