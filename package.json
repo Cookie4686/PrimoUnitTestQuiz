@@ -1,0 +1,18 @@
+{
+  "name": "primounittestquiz",
+  "version": "1.0.0",
+  "description": "Please write a typescript project with unit test\r Provide accessible repo of typescript project with unit test.\r Provide how to setup dependency, execute code and run unit test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.3"
+  }
+}
